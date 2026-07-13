@@ -1,6 +1,8 @@
 # Courses Title: IoT & Smart Infrastructure Specialization Log
 Provider: Coursera
+
 Goal: Building a foundational-to-applied understanding of AI, blockchain, and connected-device systems as the groundwork for designing and deploying smart infrastructure solutions.
+
 Progress: 🟢🟢⚪ — 2 of 3 courses complete
 
 ## 🟢 Course 1: AI for Everyone(DeepLearning.AI)
