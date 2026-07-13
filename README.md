@@ -14,7 +14,10 @@ Progress: 🟢🟢⚪ — 2 of 3 courses complete
 
 ---
 
+## 🟢 Course 2: Introduction to Blockchain Technologies(INSEAD)
 
+### Module 2: Blockchain Design Principles
+Network Integrity: Comparing centralized vs. distributed systems; achieving structural ledger integrity via consensus mechanisms (Proof of Work, Proof of Stake).
 
 Security & Privacy: Securing networks with asymmetric cryptography (public/private keys) while maintaining user privacy on public ledgers.
 
