@@ -1,7 +1,7 @@
 # IoT & Smart Infrastructure Specialization
 
 **Why This Matters:**
-Hands-on foundation in AI, blockchain, and embedded systems — 
+Hands-on foundation in AI, blockchain, and embedded systems - 
 critical for designing connected hardware and IoT diagnostics 
 (directly applicable to fleet monitoring, battery management, sensor systems).
 
@@ -17,14 +17,33 @@ critical for designing connected hardware and IoT diagnostics
 - 🟢 [Blockchain](./2_Blockchain.md)
 - 🟢 [IoT & Embedded Systems](./3_IoT_Embedded_Systems.md)
 
-## Assignment: Microcontroller Datasheet Analysis
+## Projects
+
+### Embedded Systems Interface Analysis
+Analyzed two real-world embedded systems (Microwave Oven, Google Nest Smart Thermostat) 
+by deconstructing their user and machine interfaces. Classified all inputs and outputs 
+by interaction mode: Visual, Audio, Tactile, and Electronic.
+
+**Key Insight:** Compared simple, purpose-built interfaces (microwave) vs. modern 
+connected systems with network integration (smart thermostat).
+
+Demonstrates:
+- Interface design analysis
+- Sensor and actuator classification
+- Understanding of multi-modal interaction patterns
+
+[Full Report](./a1_interface_analysis.pdf)
+
+---
+
+### Microcontroller Datasheet Analysis
 Extracted and compared hardware specs (ATmega328P, MSP430) and analyzed 
 Arduino/Raspberry Pi OS ecosystem support. Demonstrates ability to:
 - Read technical datasheets
 - Compare embedded platforms
 - Understand open-source software ecosystems
 
-[Full Report](./assignment_Microcontroller_Analysis.md)
+[Full Report](./a2_microcontroller_analysis.md)
 
 ---
 
