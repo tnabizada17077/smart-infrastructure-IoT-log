@@ -43,7 +43,7 @@ Arduino/Raspberry Pi OS ecosystem support. Demonstrates ability to:
 - Compare embedded platforms
 - Understand open-source software ecosystems
 
-[Full Report](./a2_microcontroller_analysis.md)
+[Full Report](./a2_microcontr_analysis.md)
 
 ---
 
