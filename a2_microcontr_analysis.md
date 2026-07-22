@@ -1,5 +1,6 @@
 # Microcontroller Datasheet & OS Platform Analysis
 
+
 ## PART 1: Microcontroller Datasheet Research
 
 | Characteristic | ATmega328P | MSP430G2553 |
@@ -30,8 +31,6 @@ for time-sensitive sensor applications.
 ### References
 - ATmega328P Datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
 - MSP430G2553 Datasheet: https://www.ti.com/lit/ds/symlink/msp430g2553.pdf
-
----
 
 ## PART 2: Platform OS Analysis
 
@@ -89,3 +88,4 @@ https://ubuntu.com/download/raspberry-pi
 https://www.kali.org/docs/arm/kali-linux-raspberry-pi/
 
 ---
+THE END
