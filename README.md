@@ -32,7 +32,7 @@ Demonstrates:
 - Sensor and actuator classification
 - Understanding of multi-modal interaction patterns
 
-[Full Report](./a1_interface_analysis.md)
+[Report](./a1_interface_analysis.md)
 
 ---
 
@@ -43,7 +43,7 @@ Arduino/Raspberry Pi OS ecosystem support. Demonstrates ability to:
 - Compare embedded platforms
 - Understand open-source software ecosystems
 
-[Full Report](./a2_microcontr_analysis.md)
+[Report](./a2_microcontr_analysis.md)
 
 ---
 
