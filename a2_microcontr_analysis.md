@@ -37,21 +37,17 @@ for time-sensitive sensor applications.
 ### Arduino Platform
 
 **Does Arduino support a traditional operating system?**
-No. Arduino operates at the firmware/bootloader level, not requiring a full OS. However, 
-Arduino supports multiple software environments and frameworks.
+Limited. Arduino typically runs firmware without a full OS, but supports RTOS options.
 
-**Compatible Operating Systems / Development Environments:**
-1. **Arduino IDE** (Integrated Development Environment) — Open Source: Yes
-   - C/C++ based programming environment
-   - Runs on Windows, macOS, Linux
+**Compatible Operating Systems / Real-Time Operating Systems (RTOS):**
+1. **Arduino FreeRTOS** — Open Source: Yes
+   - Real-time operating system kernel for multitasking on Arduino boards
    
-2. **MicroPython** — Open Source: Yes
-   - Python interpreter for microcontrollers
-   - Provides rapid prototyping capability
+2. **Zephyr RTOS** — Open Source: Yes
+   - Scalable real-time operating system supporting Arduino-compatible boards
    
-3. **Arduino FreeRTOS** — Open Source: Yes
-   - Real-time operating system kernel
-   - Enables multitasking on Arduino-compatible boards
+3. **mbed OS** — Open Source: Yes
+   - Operating system for IoT devices and embedded systems
 
 ### Raspberry Pi Platform
 
