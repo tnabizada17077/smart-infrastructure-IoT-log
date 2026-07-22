@@ -32,7 +32,7 @@ Demonstrates:
 - Sensor and actuator classification
 - Understanding of multi-modal interaction patterns
 
-[Full Report](./a1_interface_analysis.pdf)
+[Full Report](./a1_interface_analysis.md)
 
 ---
 
