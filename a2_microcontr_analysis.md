@@ -1,6 +1,5 @@
 # Microcontroller Datasheet & OS Platform Analysis
 
-
 ## PART 1: Microcontroller Datasheet Research
 
 | Characteristic | ATmega328P | MSP430G2553 |
